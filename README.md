@@ -1,8 +1,8 @@
 # Q1K3 - A JS13k GAME
 
-My entry for the 2021 [js13k](https://js13kgames.com/) competition.
+Phoboslab's entry for the 2021 [js13k](https://js13kgames.com/) competition.
 
-Play here: https://phoboslab.org/q1k3/
+Play it here: https://catfoolyou.github.io/Quack/
 
 Making Of: https://phoboslab.org/log/2021/09/q1k3-making-of
 
