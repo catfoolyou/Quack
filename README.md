@@ -10,7 +10,7 @@ Making Of: https://phoboslab.org/log/2021/09/q1k3-making-of
 - Movement: WASD or Arrow Keys
 - Attack: Left Mouse Button
 - Jump: Space or Right Mouse Button
-- Switch Weapon: Q/E or Mousewheel
+- Switch Weapon: Q/E or Mousewheel (numbers don't work)
 
 ### Features
 - 2 Levels
